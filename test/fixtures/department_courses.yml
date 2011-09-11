@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/Fixtures.html
+
+one:
+  department_id: 1
+  course_id: 1
+  degree: MyString
+  semesters_given: MyString
+  is_mandatory: 
+
+two:
+  department_id: 1
+  course_id: 1
+  degree: MyString
+  semesters_given: MyString
+  is_mandatory: 

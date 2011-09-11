@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/Fixtures.html
+
+one:
+  course_id: 1
+  inst_group_num: MyString
+  full_inst_course_id: MyString
+  semester: MyString
+  instance_type: MyString
+  teacher_id: 1
+  location: MyString
+  day_of_week: 1
+  start_hour: 2011-09-11 21:03:11
+  end_hour: 2011-09-11 21:03:11
+
+two:
+  course_id: 1
+  inst_group_num: MyString
+  full_inst_course_id: MyString
+  semester: MyString
+  instance_type: MyString
+  teacher_id: 1
+  location: MyString
+  day_of_week: 1
+  start_hour: 2011-09-11 21:03:11
+  end_hour: 2011-09-11 21:03:11

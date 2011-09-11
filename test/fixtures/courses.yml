@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/Fixtures.html
+
+one:
+  cv_course_id: 1
+  name_heb: MyString
+  name_eng: MyString
+  inst_internal_id: MyString
+  department_id: 1
+  course_type: MyString
+  points: 1.5
+  weekly_hours: 1.5
+  summary: MyText
+  syllabus_type: MyString
+  syllabus_data: MyText
+  extra_data: MyText
+
+two:
+  cv_course_id: 1
+  name_heb: MyString
+  name_eng: MyString
+  inst_internal_id: MyString
+  department_id: 1
+  course_type: MyString
+  points: 1.5
+  weekly_hours: 1.5
+  summary: MyText
+  syllabus_type: MyString
+  syllabus_data: MyText
+  extra_data: MyText
