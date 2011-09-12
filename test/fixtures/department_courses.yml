@@ -5,11 +5,11 @@ one:
   course_id: 1
   degree: MyString
   semesters_given: MyString
-  is_mandatory: 
+  is_mandatory: false
 
 two:
   department_id: 1
   course_id: 1
   degree: MyString
   semesters_given: MyString
-  is_mandatory: 
+  is_mandatory: false
